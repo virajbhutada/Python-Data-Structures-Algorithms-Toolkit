@@ -35,7 +35,8 @@ The repository is organized into several folders, each containing Python files r
   - **`dynamic_programming/`**: Implementations of dynamic programming problems such as Fibonacci sequence, Knapsack problem, and Longest Common Subsequence.
   - **`greedy/`**: Algorithms that use a greedy approach, including Activity Selection and Huffman Coding.
   - **`sorting/`**: Sorting algorithms including Bubble Sort, Quick Sort, Merge Sort, and Heap Sort.
-  
+
+- **`backtracking/`**: Solutions to problems using the backtracking approach, such as N-Queens and Sudoku Solver.  
 - **`data_structures/`**: Contains implementations of fundamental data structures.
   - **`arrays/`**: Array-based operations and utilities.
   - **`linked_list/`**: Implementations of various linked list types.
@@ -46,15 +47,15 @@ The repository is organized into several folders, each containing Python files r
   - **`heaps/`**: Implementations of heap data structures like Min Heap and Max Heap.
   - **`hashing/`**: Hash table implementations using separate chaining and open addressing.
   - **`tries/`**: Trie data structures including Trie Class, Word Search, and Auto-Complete features.
-
+- **`graphs/`**: Graph algorithms including Graph Class, Dijkstra’s Algorithm, DFS, and BFS.
+- **`parentheses/`**: Includes algorithms for validating balanced parentheses and brackets, ensuring proper nesting and matching of different types of delimiters.
+- **`recursion/`**: Recursive algorithms including factorial computation, Fibonacci sequence, Tower of Hanoi, and Permutations.
 - **`text_processing/`**: Algorithms and utilities for text manipulation.
   - **`text_editor/`**: Implementations related to text editing functionalities.
   - **`unique_words/`**: Algorithms for finding and counting unique words.
 
-- **`backtracking/`**: Solutions to problems using the backtracking approach, such as N-Queens and Sudoku Solver.
-- **`graphs/`**: Graph algorithms including Graph Class, Dijkstra’s Algorithm, DFS, and BFS.
-- **`recursion/`**: Recursive algorithms including factorial computation, Fibonacci sequence, Tower of Hanoi, and Permutations.
-- **`parentheses/`**: Includes algorithms for validating balanced parentheses and brackets, ensuring proper nesting and matching of different types of delimiters.
+
+
 
 
 
