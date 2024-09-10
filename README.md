@@ -54,8 +54,8 @@ The repository is organized into several folders, each containing Python files r
 - **`backtracking/`**: Solutions to problems using the backtracking approach, such as N-Queens and Sudoku Solver.
 - **`graphs/`**: Graph algorithms including Graph Class, Dijkstra’s Algorithm, DFS, and BFS.
 - **`recursion/`**: Recursive algorithms including factorial computation, Fibonacci sequence, Tower of Hanoi, and Permutations.
-- **`parentheses/`**: Algorithms for checking balanced parentheses.
-- **`dynamic_programming/`**: Specific algorithms involving dynamic programming techniques.
+- **`parentheses/`**: Includes algorithms for validating balanced parentheses and brackets, ensuring proper nesting and matching of different types of delimiters.
+
 
 
 ---
