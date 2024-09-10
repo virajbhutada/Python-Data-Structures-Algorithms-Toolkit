@@ -12,7 +12,7 @@ This repository provides a comprehensive collection of Python implementations fo
 4. [Contributing](#contributing)
 5. [License](#license)
 
-
+---
 
 ## Overview
 
@@ -56,6 +56,9 @@ The repository is organized into several folders, each containing Python files r
 - **`recursion/`**: Recursive algorithms including factorial computation, Fibonacci sequence, Tower of Hanoi, and Permutations.
 - **`parentheses/`**: Algorithms for checking balanced parentheses.
 - **`dynamic_programming/`**: Specific algorithms involving dynamic programming techniques.
+
+
+---
 
 ## How to Use
 
