@@ -56,7 +56,7 @@ The repository is organized into several folders, each containing Python files r
  
 - **`graphs/`**: Graph algorithms including Graph Class, Dijkstra’s Algorithm, DFS, and BFS.
 - **`parentheses/`**: Includes algorithms for validating balanced parentheses and brackets, ensuring proper nesting and matching of different types of delimiters.
-- **`recursion/`**: Recursive algorithms including factorial computation, Fibonacci sequence, Tower of Hanoi, and Permutations.
+- **`recursion/`**: Recursive algorithms including Factorial Computation, Fibonacci sequence, Tower of Hanoi, and Permutations.
 - **`text_processing/`**: Algorithms and utilities for text manipulation.
   - **`text_editor/`**: Implementations related to text editing functionalities.
   - **`unique_words/`**: Algorithms for finding and counting unique words.
