@@ -97,15 +97,14 @@ To get started with the repository:
 
 ## Contributing
 
-[![Fork](https://img.shields.io/badge/Fork-Repository-gold)](https://github.com/virajbhutada/Python-Data-Structures-Algorithms-Toolkit/fork) [![Create Branch](https://img.shields.io/badge/Create-Branch-blue)](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository) [![Make Changes](https://img.shields.io/badge/Make-Changes-orange)](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) [![Pull Request](https://img.shields.io/badge/Submit-Pull_Request-green)](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+[![Fork](https://img.shields.io/badge/Fork-Repository-008000)](https://github.com/virajbhutada/Python-Data-Structures-Algorithms-Toolkit/fork) [![Create Branch](https://img.shields.io/badge/Create-Branch-4169E1)](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository) [![Make Changes](https://img.shields.io/badge/Make-Changes-A52A2A)](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) [![Pull Request](https://img.shields.io/badge/Submit-Pull_Request-F0E68C)](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
 
-- **Reporting Issues**: If you encounter any issues or bugs, please open an issue on the GitHub repository. Provide a detailed description of the problem, including steps to reproduce it and any relevant information.
+**Reporting Issues**: If you encounter any issues or bugs, please open an issue on the GitHub repository. Provide a detailed description of the problem, including steps to reproduce it and any relevant information.
 
 
 
 
-Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed contribution guidelines.
 
 ---
 
