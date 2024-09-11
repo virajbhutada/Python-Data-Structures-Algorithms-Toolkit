@@ -47,6 +47,13 @@ The repository is organized into several folders, each containing Python files r
   - **`heaps/`**: Implementations of heap data structures like Min Heap and Max Heap.
   - **`hashing/`**: Hash table implementations using separate chaining and open addressing.
   - **`tries/`**: Trie data structures including Trie Class, Word Search, and Auto-Complete features.
+- **`datatypes/`**: Contains Python’s core data types and operations.
+  - **`lists/`**: Manipulations, sorting, nested lists, and built-in list methods.
+  - **`tuples/`**: Tuple creation, slicing, unpacking, and built-in tuple functions.
+  - **`sets/`**: Set operations, manipulations, comprehensions, and set functions.
+  - **`dictionaries/`**: Key-value manipulations, dictionary comprehensions, and nested dictionaries.
+  - **`strings/`**: String operations, formatting, manipulations, and pattern matching with regular expressions.
+ 
 - **`graphs/`**: Graph algorithms including Graph Class, Dijkstra’s Algorithm, DFS, and BFS.
 - **`parentheses/`**: Includes algorithms for validating balanced parentheses and brackets, ensuring proper nesting and matching of different types of delimiters.
 - **`recursion/`**: Recursive algorithms including factorial computation, Fibonacci sequence, Tower of Hanoi, and Permutations.
