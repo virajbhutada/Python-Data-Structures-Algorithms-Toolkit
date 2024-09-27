@@ -2,7 +2,7 @@
 # Advanced Python Data Structures and Algorithms
 
 This repository provides a comprehensive collection of Python implementations for various data structures and algorithms. It is designed to offer clear and concise assistance to learners, developers, and enthusiasts, helping them understand and apply both fundamental and advanced concepts in computer science.
-
+---
 
 ## Table of Contents
 
