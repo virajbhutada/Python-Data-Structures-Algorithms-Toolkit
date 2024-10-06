@@ -3,7 +3,7 @@
 
 This repository comprehensively collects Python implementations for various data structures and algorithms. It is designed to offer clear and concise assistance to learners, developers, and enthusiasts, helping them understand and apply fundamental and advanced computer science concepts.
 
----
+
 
 ## Table of Contents
 
