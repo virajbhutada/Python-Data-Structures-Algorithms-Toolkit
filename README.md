@@ -22,7 +22,7 @@ This repository includes Python code for implementing and understanding a wide r
 - **Data Structures**: Implementations of essential structures like arrays, linked lists, stacks, queues, trees, graphs, and hashing techniques.
 - **Algorithms**: Detailed code for various algorithms, including sorting, searching, and dynamic programming.
 - **Text Processing**: Tools and techniques for text manipulation, such as text editors and unique word count algorithms.
-- **Special Techniques**: Includes advanced algorithm like backtracking, greedy algorithms, and recursion examples.
+- **Special Techniques**: Includes advanced algorithms like backtracking, greedy algorithms, and recursion examples.
 
 This repository is intended to be a useful resource for studying and applying algorithms and data structures in Python. Whether you're a student preparing for exams, a developer looking to sharpen your skills, or just curious about these concepts, you'll find valuable information and code examples here.
 
@@ -33,7 +33,7 @@ This repository is intended to be a useful resource for studying and applying al
 The repository is organized into several folders, each containing Python files related to specific topics:
 
 - **`algorithms/`**: Contains various algorithmic techniques and strategies.
-  - **`dynamic_programming/`**: Implementations of dynamic programming problems such as Fibonacci sequence, Knapsack problem, and Longest Common Subsequence.
+  - **`dynamic_programming/`**: Implementations of dynamic programming problems such as the Fibonacci sequence, Knapsack problem, and Longest Common Subsequence.
   - **`greedy/`**: Algorithms that use a greedy approach, including Activity Selection and Huffman Coding.
   - **`sorting/`**: Sorting algorithms including Bubble Sort, Quick Sort, Merge Sort, and Heap Sort.
 
