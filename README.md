@@ -17,7 +17,7 @@ This repository comprehensively collects Python implementations for various data
 
 ## Overview
 
-This repository includes Python code for implementing and understanding a wide range of data structures and algorithms. Each folder is dedicated to a specific type of algorithm or data structure, offering practical examples and clear implementations. Here's what you'll find:
+This repository includes Python code for implementing and understanding various data structures and algorithms. Each folder is dedicated to a specific algorithm or data structure, offering practical examples and clear implementations. Here's what you'll find:
 
 - **Data Structures**: Implementations of essential structures like arrays, linked lists, stacks, queues, trees, graphs, and hashing techniques.
 - **Algorithms**: Detailed code for various algorithms, including sorting, searching, and dynamic programming.
@@ -89,7 +89,7 @@ To get started with the repository:
    ```
 
 4. **Explore and Modify Code:**
-   Feel free to explore the scripts, modify them, and use them as references for your own projects.
+   Feel free to explore the scripts, modify them, and use them as references for your projects.
 
 
 ---
@@ -101,7 +101,7 @@ To get started with the repository:
 [![Fork](https://img.shields.io/badge/Fork-Repository-008000)](https://github.com/virajbhutada/Python-Data-Structures-Algorithms-Toolkit/fork) [![Create Branch](https://img.shields.io/badge/Create-Branch-4169E1)](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository) [![Make Changes](https://img.shields.io/badge/Make-Changes-A52A2A)](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) [![Pull Request](https://img.shields.io/badge/Submit-Pull_Request-F0E68C)](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
 
-**Reporting Issues**: If you encounter any issues or bugs, please open an issue on the GitHub repository. Provide a detailed description of the problem, including steps to reproduce it and any relevant information.
+**Reporting Issues**: If you encounter any issues or bugs, please open an issue on the GitHub repository. Please provide a detailed description of the problem, including steps to reproduce it and any relevant information.
 
 
 
